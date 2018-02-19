@@ -882,8 +882,8 @@ body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333333;
-  background-color: #ffffff;
+  color: black;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJx9rGmdgYndH6-MU01FyC_dDPPD6SxgcpRVllH1107NQjbR0M);
 }
 input,
 button,
